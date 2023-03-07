@@ -1,6 +1,4 @@
 
-Product Page: https://wwww.devcrud.com/
-
 Credits:
 
     Demo Images:
